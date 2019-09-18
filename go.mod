@@ -1,4 +1,4 @@
-module github.com/coredns/unbound
+module github.com/fuhry/unbound
 
 go 1.12
 
